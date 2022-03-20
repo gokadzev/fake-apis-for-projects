@@ -1,0 +1,767 @@
+[
+  {
+    "id": 1,
+    "singer": "Billie Eilish",
+    "songtitle": "everything i wanted",
+    "path": "https://www.dropbox.com/s/9lu0r9ydhlpu68k/Billie%2520Eilish%2520-%2520everything%2520i%2520wanted.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/j6hsn3lnjaad61g/billie%20eilish.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 2,
+    "singer": "Billie Eilish",
+    "songtitle": "when the party's over",
+    "path": "https://www.dropbox.com/s/vbw8k3dmjdfrkhb/Billie%2520Eilish%2520-%2520when%2520the%2520party%2520s%2520over.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/j6hsn3lnjaad61g/billie%20eilish.jpg?raw=1",
+    "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+    "albumCover": "https://www.dropbox.com/s/pepoqvrb1e5dett/whenweallfallasleep.jpg?raw=1"
+  },
+  {
+    "id": 3,
+    "singer": "Billie Eilish",
+    "songtitle": "bad guy",
+    "path": "https://www.dropbox.com/s/j0d7h6n6h53hv6a/Billie%2520Eilish%2520-%2520bad%2520guy.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/j6hsn3lnjaad61g/billie%20eilish.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 4,
+    "singer": "Billie Eilish, Khalid",
+    "songtitle": "lovely",
+    "path": "https://www.dropbox.com/s/i89kby9tsy156wk/Billie%2520Eilish%252C%2520Khalid%2520-%2520lovely.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/j6hsn3lnjaad61g/billie%20eilish.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 5,
+    "singer": "Billie Eilish",
+    "songtitle": "No Time To Die",
+    "path": "https://www.dropbox.com/s/7lhgpx7zi95qg2b/Billie%2520Eilish%2520-%2520No%2520Time%2520To%2520Die.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/j6hsn3lnjaad61g/billie%20eilish.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 6,
+    "singer": "Billie Eilish",
+    "songtitle": "all the good girls go to hell",
+    "path": "https://www.dropbox.com/s/ib978ek399ok3tb/Billie%2520Eilish%2520-%2520all%2520the%2520good%2520girls%2520go%2520to%2520hell.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/j6hsn3lnjaad61g/billie%20eilish.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 7,
+    "singer": "Billie Eilish",
+    "songtitle": "My Future",
+    "path": "https://www.dropbox.com/s/p90s9b106eyjzbf/Billie%2520Eilish%2520-%2520my%2520future.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/j6hsn3lnjaad61g/billie%20eilish.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 8,
+    "singer": "Billie Eilish",
+    "songtitle": "Bellyache",
+    "path": "https://www.dropbox.com/s/ygy2cs8z3skjuoh/Billie%2520Eilish%2520-%2520Bellyache.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/j6hsn3lnjaad61g/billie%20eilish.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 9,
+    "singer": "Billie Eilish",
+    "songtitle": "Ocean Eyes",
+    "path": "https://www.dropbox.com/s/pee8fi2a9vzuhir/Billie%2520Eilish%2520-%2520Ocean%2520Eyes%2520%2528Official%2520Music%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/j6hsn3lnjaad61g/billie%20eilish.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 10,
+    "singer": "Billie Eilish",
+    "songtitle": "Bury A Friend",
+    "path": "https://www.dropbox.com/s/ea84tpvjlltdgns/Billie%2520Eilish%2520-%2520bury%2520a%2520friend.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/j6hsn3lnjaad61g/billie%20eilish.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 11,
+    "singer": "Lewis Capaldi",
+    "songtitle": "Someone You Loved",
+    "path": "https://www.dropbox.com/s/dleddscki0jgj5w/Lewis%2520Capaldi%2520-%2520Someone%2520You%2520Loved.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/jwl0ie98ielc0qu/lewis-capaldi.png?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 12,
+    "singer": "Lewis Capaldi",
+    "songtitle": "Bruises",
+    "path": "https://www.dropbox.com/s/3tjrgw0b0szy5mx/Lewis%2520Capaldi%2520-%2520Bruises%2520%2528Official%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/jwl0ie98ielc0qu/lewis-capaldi.png?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 13,
+    "singer": "Lewis Capaldi",
+    "songtitle": "Hold Me While You Wait",
+    "path": "https://www.dropbox.com/s/4y68e3fwhxs3ihk/Lewis%2520Capaldi%2520-%2520Hold%2520Me%2520While%2520You%2520Wait%2520%2528Interlude%2520Session%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/jwl0ie98ielc0qu/lewis-capaldi.png?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 14,
+    "singer": "Lewis Capaldi",
+    "songtitle": "Before You Go",
+    "path": "https://www.dropbox.com/s/y501u7zw508np5o/Lewis%2520Capaldi%2520-%2520Before%2520You%2520Go%2520%2528Official%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/jwl0ie98ielc0qu/lewis-capaldi.png?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 15,
+    "singer": "Shawn Mendes",
+    "songtitle": "Wonder",
+    "path": "https://www.dropbox.com/s/28c6kym27rn32vt/Shawn%2520Mendes%2520-%2520Wonder.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/sm4d450adh1bmw5/shawnmendes.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 16,
+    "singer": "Shawn Mendes",
+    "songtitle": "Treat You Better",
+    "path": "https://www.dropbox.com/s/zooxw2yfmocn1s3/Shawn%2520Mendes%2520-%2520Treat%2520You%2520Better.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/sm4d450adh1bmw5/shawnmendes.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 17,
+    "singer": "Shawn Mendes",
+    "songtitle": "There's nothing holdin me back",
+    "path": "https://www.dropbox.com/s/0btj0yvtl30athm/Shawn%2520Mendes%2520-%2520There%2520s%2520Nothing%2520Holdin%2520Me%2520Back.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/sm4d450adh1bmw5/shawnmendes.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 18,
+    "singer": "Shawn Mendes",
+    "songtitle": "Stitches",
+    "path": "https://www.dropbox.com/s/3eqlr0rz4nz7ei6/Shawn%2520Mendes%2520-%2520Stitches%2520%2528Official%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/sm4d450adh1bmw5/shawnmendes.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 19,
+    "singer": "Shawn Mendes",
+    "songtitle": "Mercy",
+    "path": "https://www.dropbox.com/s/4c529l6jiqbq22s/Shawn%2520Mendes%2520-%2520Mercy.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/sm4d450adh1bmw5/shawnmendes.jpg?raw=1",
+    "album": "Illuminate",
+    "albumCover": "https://www.dropbox.com/s/hyf3guvbh9ru51t/illuminate.jpg?raw=1"
+  },
+  {
+    "id": 20,
+    "singer": "Shawn Mendes",
+    "songtitle": "If i cant have you",
+    "path": "https://www.dropbox.com/s/6eroivyc3a9k03c/Shawn%2520Mendes%2520-%2520If%2520I%2520Can%2520t%2520Have%2520You.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/sm4d450adh1bmw5/shawnmendes.jpg?raw=1",
+    "album": "If I Can't Have You",
+    "albumCover": "https://www.dropbox.com/s/mh9ula4dtk0j188/if%20i%20cant%20have%20you.png?raw=1"
+  },
+  {
+    "id": 21,
+    "singer": "Shawn Mendes and Justin Bieber",
+    "songtitle": "Monster",
+    "path": "https://www.dropbox.com/s/8g5ufvfc1xbulde/Shawn%2520Mendes%252C%2520Justin%2520Bieber%2520-%2520Monster.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/sm4d450adh1bmw5/shawnmendes.jpg?raw=1",
+    "album": "Wonder",
+    "albumCover": "https://www.dropbox.com/s/2ho7snd73rsdz7o/wonder.jpg?raw=1"
+  },
+  {
+    "id": 22,
+    "singer": "Shawn Mendes and camila cabello",
+    "songtitle": "The christmas song",
+    "path": "https://www.dropbox.com/s/koiwp2lzz76zzwk/Shawn%2520Mendes%252C%2520Camila%2520Cabello%2520-%2520The%2520Christmas%2520Song.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/sm4d450adh1bmw5/shawnmendes.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 23,
+    "singer": "Shawn Mendes",
+    "songtitle": "In My Blood",
+    "path": "https://www.dropbox.com/s/3l27efuc525a43b/Shawn%2520Mendes%2520-%2520In%2520My%2520Blood.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/sm4d450adh1bmw5/shawnmendes.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 24,
+    "singer": "Olivia Rodrigo",
+    "songtitle": "All I Want",
+    "path": "https://www.dropbox.com/s/b9s3zshlevktztb/Olivia%2520Rodrigo%2520-%2520All%2520I%2520Want%2520%2528Official%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/99p77ug2gui22vj/oliviarodrigo.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 25,
+    "singer": "Olivia Rodrigo",
+    "songtitle": "River",
+    "path": "https://www.dropbox.com/s/xkrnlwk4wvgeubs/Olivia%2520Rodrigo%2520-%2520River%2520%2528HSMTM%2520The%2520Holiday%2520Special%2520Disney%252B%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/99p77ug2gui22vj/oliviarodrigo.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 26,
+    "singer": "Olivia Rodrigo",
+    "songtitle": "Drivers License",
+    "path": "https://www.dropbox.com/s/0o3k8r5twa80u0f/Olivia%2520Rodrigo%2520%25E2%2580%2593%2520drivers%2520license.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/99p77ug2gui22vj/oliviarodrigo.jpg?raw=1",
+    "album": "Bad Child-Can't Be Happy All The Time",
+    "albumCover": "https://www.dropbox.com/s/8xyl6gom60qjuh0/badchild.png?raw=1"
+  },
+  {
+    "id": 27,
+    "singer": "Tones And I",
+    "songtitle": "Bad Child",
+    "path": "https://www.dropbox.com/s/xssod5ts5dqsywn/Tones%2520And%2520I%2520-%2520Bad%2520Child.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/znsptkwj0s7d0n5/tonesandi.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 28,
+    "singer": "Tones And I",
+    "songtitle": "Dance Monkey",
+    "path": "https://www.dropbox.com/s/t4zvf3ie1sm6j5g/Tones%2520and%2520I%2520-%2520Dance%2520Monkey.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/znsptkwj0s7d0n5/tonesandi.jpg?raw=1",
+    "album": "The Kids Are Coming",
+    "albumCover": "https://www.dropbox.com/s/gvmg6zy58tlkrre/thekidsarecoming.jpg?raw=1"
+  },
+  {
+    "id": 29,
+    "singer": "Tones And I",
+    "songtitle": "Fly Away",
+    "path": "https://www.dropbox.com/s/29787j8t5arakfn/TONES%2520AND%2520I%2520-%2520FLY%2520AWAY.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/znsptkwj0s7d0n5/tonesandi.jpg?raw=1",
+    "album": "Fly Away (Alternate Version)",
+    "albumCover": "https://www.dropbox.com/s/1pszoyyvkv8l180/flyaway.png?raw=1"
+  },
+  {
+    "id": 30,
+    "singer": "Tones And I",
+    "songtitle": "JOHNNY RUN AWAY",
+    "path": "https://www.dropbox.com/s/72kvoqsx4dwln3p/TONES%2520AND%2520I%2520-%2520JOHNNY%2520RUN%2520AWAY%2520%2528OFFICIAL%2520VIDEO%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/znsptkwj0s7d0n5/tonesandi.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 31,
+    "singer": "Tones And I",
+    "songtitle": "Never Seen The Rain",
+    "path": "https://www.dropbox.com/s/skas51wrxx08sq1/TONES%2520AND%2520I%2520-%2520NEVER%2520SEEN%2520THE%2520RAIN%2520%2528OFFICIAL%2520VIDEO%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/znsptkwj0s7d0n5/tonesandi.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 32,
+    "singer": "Tones And I",
+    "songtitle": "ur so fucking cool",
+    "path": "https://www.dropbox.com/s/9neebkqg4ypccjs/TONES%2520AND%2520I%2520-%2520UR%2520SO%2520FKING%2520COOL%2520%2528OFFICIAL%2520VIDEO%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/znsptkwj0s7d0n5/tonesandi.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 33,
+    "singer": "Tiagz",
+    "songtitle": "They Call Me Tiago",
+    "path": "https://www.dropbox.com/s/k8zsqw4ddx2xbl9/Tiagz%2520-%2520They%2520Call%2520Me%2520Tiago%2520%2528Her%2520Name%2520Is%2520Margo%2529%2520i%2520don%2520t%2520know%2520who%2520is%2520margo.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/a0mbiib6gocqwgj/tiagz.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 34,
+    "singer": "Tiagz",
+    "songtitle": "Zoom",
+    "path": "https://www.dropbox.com/s/sgoiml60yqxo4r8/TIAGZ%2520-%2520Zoom.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/a0mbiib6gocqwgj/tiagz.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 35,
+    "singer": "Tiagz",
+    "songtitle": "My Heart Went Oops",
+    "path": "https://www.dropbox.com/s/s1ye6dnyurwuk87/TIAGZ%2520-%2520My%2520Heart%2520Went%2520Oops.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/a0mbiib6gocqwgj/tiagz.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 36,
+    "singer": "Tiagz",
+    "songtitle": "Muffins In The Freezer",
+    "path": "https://www.dropbox.com/s/lkac16l53jvbm9o/Tiagz%2520-%2520Muffins%2520In%2520The%2520Freezer%2520who%2520in%2520the%2520hell%2520put%2520the%2520muffins%2520in%2520the%2520freezer.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/a0mbiib6gocqwgj/tiagz.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 37,
+    "singer": "Tiagz",
+    "songtitle": "Float on the Sound",
+    "path": "https://www.dropbox.com/s/s2ip09slm0lbe3p/TIAGZ%2520-%2520Float%2520on%2520the%2520Sound%2520%2528Ey%2529%2520%255BAudio%255D%2520prod.%2520tiagz.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/a0mbiib6gocqwgj/tiagz.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 38,
+    "singer": "Tiagz",
+    "songtitle": "Bonjour",
+    "path": "https://www.dropbox.com/s/f1srxbdaze43f99/Tiagz%2520-%2520Bonjour%2520%2528Official%2520Video%2529%2520%255BDirected%2520by%2520Tiagz%255D.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/a0mbiib6gocqwgj/tiagz.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 39,
+    "singer": "LP",
+    "songtitle": "When We're High",
+    "path": "https://www.dropbox.com/s/t737nn1wyapka9i/LP%2520-%2520When%2520We%2520re%2520High%2520%255BOfficial%2520Music%2520Video%255D.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/f7oth0a6ubwvs33/lp.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 40,
+    "singer": "LP",
+    "songtitle": "Tightrope",
+    "path": "https://www.dropbox.com/s/i7a5ezxpana297f/LP%2520-%2520Tightrope%2520%2528Official%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/f7oth0a6ubwvs33/lp.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 41,
+    "singer": "LP",
+    "songtitle": "Strange",
+    "path": "https://www.dropbox.com/s/5mcae4he941ld1r/LP%2520-%2520Strange%2520%2528Official%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/f7oth0a6ubwvs33/lp.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 42,
+    "singer": "LP",
+    "songtitle": "Recovery",
+    "path": "https://www.dropbox.com/s/ml5nckxp04fq67v/LP%2520-%2520Recovery%2520%2528Official%2520Music%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/f7oth0a6ubwvs33/lp.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 43,
+    "singer": "LP",
+    "songtitle": "Other People",
+    "path": "https://www.dropbox.com/s/4ezzloqk218uop1/LP%2520-%2520Other%2520People%2520%255BOfficial%2520Music%2520Video%255D.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/f7oth0a6ubwvs33/lp.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 44,
+    "singer": "LP",
+    "songtitle": "Lost On You",
+    "path": "https://www.dropbox.com/s/gl2rjgdrksb5159/LP%2520-%2520Lost%2520On%2520You%2520%255BOfficial%2520Video%255D.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/f7oth0a6ubwvs33/lp.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 45,
+    "singer": "LP",
+    "songtitle": "How Low Can You Go",
+    "path": "https://www.dropbox.com/s/8k0erzgl0s8pyc4/LP%2520-%2520How%2520Low%2520Can%2520You%2520Go%2520%2528Official%2520Music%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/f7oth0a6ubwvs33/lp.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 46,
+    "singer": "Fleurie",
+    "songtitle": "A World Beyond",
+    "path": "https://www.dropbox.com/s/dd7y5s9wxw24pr9/Fleurie%2520-%2520A%2520World%2520Beyond%2520%2528Official%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/tcdabpfm2atq9vg/fleurie.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 47,
+    "singer": "Fleurie",
+    "songtitle": "Breathe",
+    "path": "https://www.dropbox.com/s/vzoauz3bn63i6j9/Fleurie%2520-%2520Breathe.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/tcdabpfm2atq9vg/fleurie.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 48,
+    "singer": "Fleurie",
+    "songtitle": "Hurricane",
+    "path": "https://www.dropbox.com/s/c8uv3wwifhnh6pf/Fleurie%2520-%2520Hurricane%2520%2528Official%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/tcdabpfm2atq9vg/fleurie.jpg?raw=1",
+    "album": "Hurricane",
+    "albumCover": "https://www.dropbox.com/s/4hrk4ffkcipal43/hurricane.jpg?raw=1"
+  },
+  {
+    "id": 49,
+    "singer": "Fleurie",
+    "songtitle": "Hurts Like Hell",
+    "path": "https://www.dropbox.com/s/m5d1g8bsdydua1r/Fleurie%2520-%2520Hurts%2520Like%2520Hell%2520OurVinyl%2520Sessions.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/tcdabpfm2atq9vg/fleurie.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 50,
+    "singer": "Fleurie",
+    "songtitle": "Sirens",
+    "path": "https://www.dropbox.com/s/6stdeuklqj7hokt/Fleurie%2520-%2520Sirens%2520%2528Audio%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/tcdabpfm2atq9vg/fleurie.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 51,
+    "singer": "Fleurie",
+    "songtitle": "Soldier",
+    "path": "https://www.dropbox.com/s/xzdf1d4d15rg2sq/Fleurie%2520-%2520Soldier%2520%2528Official%2520Audio%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/tcdabpfm2atq9vg/fleurie.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 52,
+    "singer": "Fleurie",
+    "songtitle": "Still Your Girl",
+    "path": "https://www.dropbox.com/s/krfc8sgepmd71a7/Fleurie%2520-%2520Still%2520Your%2520Girl%2520%2528Official%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/tcdabpfm2atq9vg/fleurie.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 53,
+    "singer": "Fleurie",
+    "songtitle": "There's a Ghost",
+    "path": "https://www.dropbox.com/s/esxsqimksi4hg7j/Fleurie%2520-%2520There%2520s%2520a%2520Ghost.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/tcdabpfm2atq9vg/fleurie.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 54,
+    "singer": "CJ",
+    "songtitle": "WHOOPTY",
+    "path": "https://www.dropbox.com/s/sb2a0tbrxcsofvv/CJ%2520-%2520WHOOPTY%2520%255BOfficial%2520Music%2520Video%255D.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/vjaxs3rgjmb4wwd/CJ.jpg?raw=1",
+    "album": "Loyalty Over Royalty",
+    "albumCover": "https://www.dropbox.com/s/vjaxs3rgjmb4wwd/CJ.jpg?raw=1"
+  },
+  {
+    "id": 55,
+    "singer": "CJ",
+    "songtitle": "Understood",
+    "path": "https://www.dropbox.com/s/taenos4vch3eh05/CJ%2520-%2520Understood.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/vjaxs3rgjmb4wwd/CJ.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 56,
+    "singer": "Sia",
+    "songtitle": "Chandelier",
+    "path": "https://www.dropbox.com/s/xeuvjpmgty306md/Sia%2520-%2520Chandelier%2520%2528Official%2520Music%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/69obafgv08c15g0/sia.png?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 57,
+    "singer": "Sia",
+    "songtitle": "Courage To Change",
+    "path": "https://www.dropbox.com/s/puqfogyivcrm4ew/Sia%2520-%2520Courage%2520To%2520Change.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/69obafgv08c15g0/sia.png?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 58,
+    "singer": "Sia",
+    "songtitle": "Snowman",
+    "path": "https://www.dropbox.com/s/rru59yqsberdrd0/Sia%2520-%2520Snowman.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/69obafgv08c15g0/sia.png?raw=1",
+    "album": "Everyday Is Christmas",
+    "albumCover": "https://www.dropbox.com/s/69obafgv08c15g0/sia.png?raw=1"
+  },
+  {
+    "id": 59,
+    "singer": "Sia",
+    "songtitle": "The Greatest",
+    "path": "https://www.dropbox.com/s/708f7bzm2m028bn/Sia%2520-%2520The%2520Greatest.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/69obafgv08c15g0/sia.png?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 60,
+    "singer": "James Arthur",
+    "songtitle": "Can I Be Him",
+    "path": "https://www.dropbox.com/s/siskr6fhrieu17u/James%2520Arthur%2520-%2520Can%2520I%2520Be%2520Him.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/7ewew1xenrfbjyl/jamesarthur.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 61,
+    "singer": "James Arthur",
+    "songtitle": "Empty Space",
+    "path": "https://www.dropbox.com/s/43485kh0le9zqm2/James%2520Arthur%2520-%2520Empty%2520Space.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/7ewew1xenrfbjyl/jamesarthur.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 62,
+    "singer": "James Arthur",
+    "songtitle": "Falling Like The Stars",
+    "path": "https://www.dropbox.com/s/rkmjzv3qxcb7eec/James%2520Arthur%2520-%2520Falling%2520Like%2520The%2520Stars.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/7ewew1xenrfbjyl/jamesarthur.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 63,
+    "singer": "James Arthur",
+    "songtitle": "Impossible",
+    "path": "https://www.dropbox.com/s/xojxxuq98ys4euy/James%2520Arthur%2520-%2520Impossible.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/7ewew1xenrfbjyl/jamesarthur.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 64,
+    "singer": "James Arthur",
+    "songtitle": "Naked",
+    "path": "https://www.dropbox.com/s/pne3wbyggfw7s7y/James%2520Arthur%2520-%2520Naked.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/7ewew1xenrfbjyl/jamesarthur.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 65,
+    "singer": "James Arthur",
+    "songtitle": "Say You Won t Let Go",
+    "path": "https://www.dropbox.com/s/qhfetef2qs14daj/James%2520Arthur%2520-%2520Say%2520You%2520Won%2520t%2520Let%2520Go.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/7ewew1xenrfbjyl/jamesarthur.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 66,
+    "singer": "James Arthur",
+    "songtitle": "Train Wreck",
+    "path": "https://www.dropbox.com/s/ac4lcpolbsugrlp/James%2520Arthur%2520-%2520Train%2520Wreck.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/7ewew1xenrfbjyl/jamesarthur.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 67,
+    "singer": "Bruno Mars",
+    "songtitle": "Grenade",
+    "path": "https://www.dropbox.com/s/l6783itqfbx6kmn/Bruno%20Mars%20-%20Grenade%20%28Lyrics%29.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/ke1aefu12faafup/brunomars.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 68,
+    "singer": "Bruno Mars",
+    "songtitle": "Talking To The Moon",
+    "path": "https://www.dropbox.com/s/1s78ttaylslkpld/Bruno%20Mars%20-%20Talking%20To%20The%20Moon%20%5BOfficial%20Lyric%20Video%5D.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/ke1aefu12faafup/brunomars.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 69,
+    "singer": "Duncan Laurence",
+    "songtitle": "Arcade Accoustic Version",
+    "path": "https://www.dropbox.com/s/8cx4naa2x01f54o/Duncan%20Laurence%20-%20Arcade%20%28Acoustic%20Version%29.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/v2vuffoocx2jwe6/duncanlaurence.png?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 70,
+    "singer": "Duncan Laurence",
+    "songtitle": "Arcade",
+    "path": "https://www.dropbox.com/s/m796bf7hwg23uy5/Arcade%20-%20Duncan%20Laurence%20%7BLYRICS%7D%20~%21WINNER%20ESC%202019%21~.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/v2vuffoocx2jwe6/duncanlaurence.png?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 71,
+    "singer": "Axel Thesleff",
+    "songtitle": "Bad Karma",
+    "path": "https://www.dropbox.com/s/lqjx76tvredwhov/Axel%20Thesleff%20-%20Bad%20Karma.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/eehl2sigflcyi48/alexthesleff.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 72,
+    "singer": "Leah Kate",
+    "songtitle": "F*ck Up The Friendship",
+    "path": "https://www.dropbox.com/s/0lal0iw4nx7xgg2/Leah%2520Kate%2520-%2520F%2520ck%2520Up%2520The%2520Friendship%2520let%2520s%2520f%2520up%2520the%2520friendship%2520come%2520get%2520in%2520my%2520head.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/tpusyucjxbo6wtq/leah-kate.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 73,
+    "singer": "Coyote Theory",
+    "songtitle": "This Side Of Paradise",
+    "path": "https://www.dropbox.com/s/3ymnobvp8zphph6/This%2520Side%2520of%2520Paradise%2520-%2520Coyote%2520Theory%2520%25F0%259F%258E%25B5.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/d5qmevo0ysjqqpr/Coyote%20Theory.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 74,
+    "singer": "Charlotte Cardin",
+    "songtitle": "Meaningless",
+    "path": "https://www.dropbox.com/s/8xlmtyslhsbuxwo/Charlotte%2520Cardin%2520-%2520Meaningless%2520%255BOfficial%2520Music%2520Video%255D.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/zv6cfpg5xm15br2/charlottecardin.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 75,
+    "singer": "Charlotte Cardin",
+    "songtitle": "Main Girl",
+    "path": "https://www.dropbox.com/s/7mrxijd8i4jt58n/Charlotte%2520Cardin%2520-%2520Main%2520Girl%2520%255BOfficial%2520Music%2520Video%255D.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/zv6cfpg5xm15br2/charlottecardin.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 76,
+    "singer": "Charlotte Cardin",
+    "songtitle": "Dirty Dirty",
+    "path": "https://www.dropbox.com/s/z2hkosswkg0tehb/Charlotte%2520Cardin%2520-%2520Dirty%2520Dirty%2520%255BOfficial%2520Music%2520Video%255D.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/zv6cfpg5xm15br2/charlottecardin.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 77,
+    "singer": "Charlotte Cardin",
+    "songtitle": "Wicked Game",
+    "path": "https://www.dropbox.com/s/jv95fgrlnasbp6y/Charlotte%2520Cardin%2520-%2520Wicked%2520Game%2520%2528Cover%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/zv6cfpg5xm15br2/charlottecardin.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 78,
+    "singer": "Fousheé",
+    "songtitle": "Deep End",
+    "path": "https://www.dropbox.com/s/57qw21p8gp3ngks/Foushe%25C3%25A9%2520-%2520Deep%2520End.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/5tnkupoms8ln8oh/foushee.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 79,
+    "singer": "Fousheé",
+    "songtitle": "Single AF",
+    "path": "https://www.dropbox.com/s/ehe6hb0g5dqbtf6/Foushe%25C3%25A9%2520-%2520Single%2520AF.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/5tnkupoms8ln8oh/foushee.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 80,
+    "singer": "Tasneem Elaidy",
+    "songtitle": "Astronaut In The Ocean",
+    "path": "https://www.dropbox.com/s/wfh1pawg09whci2/Astronaut%2520in%2520the%2520Ocean.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/2ogjli17s2btop4/tasneem%20elaidy.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 81,
+    "singer": "Amaarae",
+    "songtitle": "Sad Girlz Luv Money Remix",
+    "path": "https://www.dropbox.com/s/3epxr4fscj99uam/Amaarae%20-%20Sad%20Girlz%20Luv%20Money%20Remix%20ft.%20Kali%20Uchis%20%26%20Moliy.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/plac5delncj9qta/amaarae.jpeg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 82,
+    "singer": "ACRAZE",
+    "songtitle": "Do It To It",
+    "path": "https://www.dropbox.com/s/tru6ik0mmtm4t7n/ACRAZE%20-%20Do%20It%20To%20It%20%28Ft.%20Cherish%29.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/8t3b5o793ou3lf8/ACRAZE.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 83,
+    "singer": "CKay",
+    "songtitle": "Love Nwantiti remix",
+    "path": "https://www.dropbox.com/s/y12x5uh5v6g0epc/CKay%20-%20Love%20Nwantiti%20Remix.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/jbup2eqfe11g7ps/ckay.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 84,
+    "singer": "Benson Boone",
+    "songtitle": "Ghost Town",
+    "path": "https://www.dropbox.com/s/kff8pfa1wanptrc/Benson%20Boone%20-%20Ghost%20Town.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/m3pf85bhwqkplyo/bensonboone.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  },
+  {
+    "id": 85,
+    "singer": "Lisa",
+    "songtitle": "Money",
+    "path": "https://www.dropbox.com/s/2r4h7y114i2ggii/Lisa%20-%20Money.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/ba0vb4zwrco95t8/lisa.jpg?raw=1",
+    "album": "",
+    "albumCover": ""
+  }
+]

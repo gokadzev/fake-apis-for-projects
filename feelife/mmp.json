@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "singer": "Sia",
+    "songtitle": "Snowman",
+    "path": "https://www.dropbox.com/s/rru59yqsberdrd0/Sia%2520-%2520Snowman.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/69obafgv08c15g0/sia.png?raw=1"
+  },
+  {
+    "id": 2,
+    "singer": "Billie Eilish",
+    "songtitle": "when the party's over",
+    "path": "https://www.dropbox.com/s/vbw8k3dmjdfrkhb/Billie%2520Eilish%2520-%2520when%2520the%2520party%2520s%2520over.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/j6hsn3lnjaad61g/billie%20eilish.jpg?raw=1"
+  },
+  {
+    "id": 3,
+    "singer": "CJ",
+    "songtitle": "Whoopty",
+    "path": "https://www.dropbox.com/s/sb2a0tbrxcsofvv/CJ%2520-%2520WHOOPTY%2520%255BOfficial%2520Music%2520Video%255D.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/vjaxs3rgjmb4wwd/CJ.jpg?raw=1"
+  },
+  {
+    "id": 4,
+    "singer": "Shawn Mendes",
+    "songtitle": "Mercy",
+    "path": "https://www.dropbox.com/s/4c529l6jiqbq22s/Shawn%2520Mendes%2520-%2520Mercy.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/sm4d450adh1bmw5/shawnmendes.jpg?raw=1"
+  },
+  {
+    "id": 5,
+    "singer": "Shawn Mendes",
+    "songtitle": "If i cant have you",
+    "path": "https://www.dropbox.com/s/6eroivyc3a9k03c/Shawn%2520Mendes%2520-%2520If%2520I%2520Can%2520t%2520Have%2520You.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/sm4d450adh1bmw5/shawnmendes.jpg?raw=1"
+  },
+  {
+    "id": 6,
+    "singer": "Shawn Mendes and Justin Bieber",
+    "songtitle": "Monster",
+    "path": "https://www.dropbox.com/s/8g5ufvfc1xbulde/Shawn%2520Mendes%252C%2520Justin%2520Bieber%2520-%2520Monster.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/sm4d450adh1bmw5/shawnmendes.jpg?raw=1"
+  },
+    {
+    "id": 7,
+    "singer": "Tones And I",
+    "songtitle": "Bad Child",
+    "path": "https://www.dropbox.com/s/xssod5ts5dqsywn/Tones%2520And%2520I%2520-%2520Bad%2520Child.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/znsptkwj0s7d0n5/tonesandi.jpg?raw=1"
+  },
+  {
+    "id": 8,
+    "singer": "Tones And I",
+    "songtitle": "Dance Monkey",
+    "path": "https://www.dropbox.com/s/t4zvf3ie1sm6j5g/Tones%2520and%2520I%2520-%2520Dance%2520Monkey.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/znsptkwj0s7d0n5/tonesandi.jpg?raw=1"
+  },
+  {
+    "id": 9,
+    "singer": "Tones And I",
+    "songtitle": "Fly Away",
+    "path": "https://www.dropbox.com/s/29787j8t5arakfn/TONES%2520AND%2520I%2520-%2520FLY%2520AWAY.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/znsptkwj0s7d0n5/tonesandi.jpg?raw=1"
+  },
+  {
+    "id": 10,
+    "singer": "Fleurie",
+    "songtitle": "Hurricane",
+    "path": "https://www.dropbox.com/s/c8uv3wwifhnh6pf/Fleurie%2520-%2520Hurricane%2520%2528Official%2520Video%2529.mp3?raw=1",
+    "coverphoto": "https://www.dropbox.com/s/tcdabpfm2atq9vg/fleurie.jpg?raw=1"
+  }
+]
