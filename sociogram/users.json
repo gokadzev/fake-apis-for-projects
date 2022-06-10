@@ -5,7 +5,9 @@
       "name": "User",
       "username": "user123",
       "location": "Georgia",
-      "bio": ""
+      "bio": "",
+      "followers": 0,
+      "following": 0
     },
     {
         "id": 1,
@@ -13,7 +15,9 @@
         "name": "Kate",
         "username": "kate2021",
         "location": "USA",
-        "bio": ""
+        "bio": "",
+        "followers": 0,
+        "following": 0
     },
     {
         "id": 11,
@@ -21,6 +25,8 @@
         "name": "karlo",
         "username": "karlo.gut",
         "location": "",
-        "bio": ""
+        "bio": "",
+        "followers": 62300,
+        "following": 0
     }
 ]
