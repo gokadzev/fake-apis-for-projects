@@ -1,0 +1,26 @@
+[
+    {
+      "id": 0,
+      "profile_picture": "assets/imgs/logo.png",
+      "name": "User",
+      "username": "user123",
+      "location": "Georgia",
+      "bio": ""
+    },
+    {
+        "id": 1,
+        "profile_picture": "https://images.unsplash.com/photo-1566666185799-b1f3fee2d6f7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=335&q=80",
+        "name": "Kate",
+        "username": "kate2021",
+        "location": "USA",
+        "bio": ""
+    },
+    {
+        "id": 11,
+        "profile_picture": "https://scontent-sof1-1.cdninstagram.com/v/t51.2885-19/279092868_166299402499448_3996035296294740236_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-sof1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=ANqu1dPbwpsAX_9VIig&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8ePyiuWmBylUuJPi6ynEFW4iFNpGEmaPWIqHWp3FkBjw&oe=62AAAE30&_nc_sid=8fd12b",
+        "name": "karlo",
+        "username": "karlo.gut",
+        "location": "",
+        "bio": ""
+    }
+]
